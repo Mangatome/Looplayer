@@ -3,13 +3,13 @@ Looplayer
 
 A full-screen, auto-running media player for Android.
 
-# Purpose
+## Purpose
 
 This app was created for an artistic exhibition for which artists needed to display a looping video from a beamer.
 
 To achieve this, we got our hands on some Android-based media player sticks, but couldn't find a decent, simple and free app to do the job. So I wrote it.
 
-# Features
+## Features
 
 Looplayer makes any Android device a pure media player, perfectly suited for exhibitions and performances.
 
@@ -19,7 +19,7 @@ Its main features are:
 - Easy to configure.
 - Auto-runs at device startup.
 
-# Configuration
+## Configuration
 
 All the configuration can be done from a file explorer.
 
